@@ -11,12 +11,3 @@ WORKING-STORAGE SECTION.
    
  
 STOP RUN.
-
-
-
-
-CONSOLE 
-
-DIGITE ALGO: 
-GIAN
-WS-MOSTRA: GIAN                 45 TEXTO.....
