@@ -21,12 +21,3 @@ DATA DIVISION.
         DISPLAY WS-NOME
         .
         STOP RUN.
-        
-        CONSOLE
-        
-        SAIDA 1:
-ANDRE     COSTA     001
-SAIDA 2:
-          COSTA     000
-SAIDA 3:
-          COSTA     000
