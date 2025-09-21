@@ -18,12 +18,4 @@ WORKING-STORAGE SECTION.
    DISPLAY WS-MOSTRA
    
  
-STOP RUN.
-
-
-CONSOLE
-
-20230110            
-2023010             
-2                   
-22193465            
+STOP RUN.          
